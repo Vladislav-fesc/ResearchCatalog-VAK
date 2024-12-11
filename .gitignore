@@ -1,0 +1,12 @@
+.# Compiled source #
+*.TMP
+*.dll
+*.prev
+*.cmake
+*.ninja
+CMakeCache.txt
+*.user
+*.qtc_clangd
+*.idx
+*.log
+build/
